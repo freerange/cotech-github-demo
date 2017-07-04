@@ -1,0 +1,1 @@
+Screenshots showing how to a new cooperative to the Jekyll version of the CoTech website.
