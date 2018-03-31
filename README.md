@@ -1,3 +1,5 @@
+__This repo is deprecated: [The idea of moving to a static website was proposed and rejected in Loomio](https://www.loomio.org/d/FnHRkxCO)__
+
 Screenshots showing how to add a new cooperative to the Jekyll version of the [CoTech website][jekyll-website].
 
 ## Creating a pull request
